@@ -4,7 +4,7 @@ Aprenda tudo sobre Clean Code, Refactoring, TDD, OO, Ports and Adapters, Clean A
 
 > Curso ministrado por [Rodrigo Branas](https://branas.io/)
 
-## Projeto - Parte 2
+## Projeto - Parte 1
 
 ### Cenário
 
